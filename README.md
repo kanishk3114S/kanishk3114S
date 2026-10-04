@@ -5,12 +5,12 @@
 ---
 
 ### 💫 About Me
-- 🎓 Pursuing a Bachelor of Technology in Computer Science and Engineering at Vellore Institute of Technology[cite: 1]. 
+- 🎓 Pursuing a Bachelor of Technology in Computer Science and Engineering at Vellore Institute of Technology. 
 - 🚀 Focused on strengthening my foundation in Data Structures and Algorithms while building scalable Full-Stack and AI-driven applications.
-- 🧠 Solved 400+ problems on LeetCode, achieving the Knight Badge with a peak rating of 1883[cite: 1].
-- ⚡ Active in competitive programming with a peak rating of 1188 on Codeforces[cite: 1].
-- 🏆 Passionate hackathon competitor, notably a Semi-Finalist in the Economic Times GenAI Hackathon[cite: 1], and a participant in the Cognizant Technoverse Hackathon and Hacksplosion 2026.
-- ☁️ Certified Oracle OCI AI Foundations Associate[cite: 1].
+- 🧠 Solved 1000 problems on LeetCode, achieving the Knight Badge with a peak rating of 1883.
+- ⚡ Active in competitive programming with a peak rating of 1188 on Codeforces.
+- 🏆 Passionate hackathon competitor, notably a Semi-Finalist in the Economic Times GenAI Hackathon, and a participant in the Cognizant Technoverse Hackathon and Hacksplosion 2026.
+- ☁️️ Certified Oracle OCI AI Foundations Associate.
 - 🤝 Always open to collaborating on innovative projects and participating in team challenges like Flipkart GRiD.
 
 ### 💻 Tech Stack
@@ -22,9 +22,9 @@
 </div>
 
 ### 🚀 Featured Projects
-- **[TruthLens](https://truuuthlens.vercel.app/)**: An AI media verification platform built with React, Node.js, Express, and MongoDB to combat digital misinformation with automated truth evaluations[cite: 1].
-- **[ProjectCamp](https://github.com/kanishk3114S/project-management-application-)**: A full-stack project management application featuring JWT authentication, Role-Based Access Control, and real-time velocity tracking[cite: 1].
-- **[Engram](https://engram-teal.vercel.app/)**: A persona-based AI journaling app providing tailored daily reflections through distinct digital personas[cite: 1].
+- **[TruthLens](https://truuuthlens.vercel.app/)**: An AI media verification platform built with React, Node.js, Express, and MongoDB to combat digital misinformation with automated truth evaluations.
+- **[ProjectCamp](https://github.com/kanishk3114S/project-management-application-)**: A full-stack project management application featuring JWT authentication, Role-Based Access Control, and real-time velocity tracking.
+- **[Engram](https://engram-teal.vercel.app/)**: A persona-based AI journaling app providing tailored daily reflections through distinct digital personas.
 - **Kalos-Poke-Dex**: A dynamic frontend web application deployed seamlessly on Vercel.
 
 ### 📊 GitHub Stats
@@ -41,7 +41,6 @@
 
 <div align="center">
   <h3>Let's Connect! 🌐</h3>
-  <!-- Fixed the broken double URLs from the original draft and updated to cohesive uniform badges -->
   <a href="https://linkedin.com/in/kanishk-sharma-b0912735a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:chesssynid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/KanishkSharma3114"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
