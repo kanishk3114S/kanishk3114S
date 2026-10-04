@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kanishk+Sharma+!+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Problem+Solver+%7C+DSA+Knight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Kanishk+Sharma+!+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Problem+Solver+%7C+DSA+Knight" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 - 🧠 Solved 1000 problems on LeetCode, achieving the Knight Badge with a peak rating of 1883.
 - ⚡ Active in competitive programming with a peak rating of 1188 on Codeforces.
 - 🏆 Passionate hackathon competitor, notably a Semi-Finalist in the Economic Times GenAI Hackathon, and a participant in the Cognizant Technoverse Hackathon and Hacksplosion 2026.
-- ☁️️ Certified Oracle OCI AI Foundations Associate.
+- ☁ Certified Oracle OCI AI Foundations Associate.
 - 🤝 Always open to collaborating on innovative projects and participating in team challenges like Flipkart GRiD.
 
 ### 💻 Tech Stack
