@@ -1,6 +1,5 @@
 Here is your complete, copy-pasteable README code. Just copy everything inside the code block below and paste it directly into your GitHub profile repository (`README.md`):
 
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Kanishk+Sharma+!+%F0%9F%91%8B;Full-Stack+Engineer+%26+GenAI+Architect;Building+Scalable+MERN+%26+RAG+Systems;LeetCode+Knight+(1883+Peak)+%7C+1000%2B+Solved" alt="Typing SVG" />
 
@@ -31,7 +30,6 @@ Here is your complete, copy-pasteable README code. Just copy everything inside t
 
 ### ⚡ Profile Overview
 
-```yaml
 name: Kanishk Sharma
 role: Full-Stack & GenAI Software Engineer
 education: B.Tech Computer Science & Engineering @ VIT Bhopal (2023 – 2027) | CGPA: 8.34
@@ -39,9 +37,7 @@ core_expertise: [MERN Stack, RAG Pipelines, LangChain, Pinecone Vector DB, REST 
 algorithmic_rating: LeetCode Knight (1883 Peak • 1000+ Problems Solved) | Codeforces (1188 Peak)
 current_focus: Building autonomous multi-hop agent workflows, low-latency React apps, and AI developer tooling.
 
-```
 
----
 
 ### 🛠️ Technical Arsenal
 
