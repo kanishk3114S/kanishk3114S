@@ -1,47 +1,78 @@
-⚡ System Architecture & Engineering DNAI engineer low-latency full-stack web applications and context-grounded Generative AI systems. My work bridges rigorous algorithmic problem-solving (1000+ DSA problems solved) with production system design—ranging from 768-dimensional Pinecone vector RAG pipelines to GraphQL telemetry ingestion and RBAC-secured MongoDB aggregation engines.engineer:
-  name: "Kanishk Sharma"
-  institution: "Vellore Institute of Technology (VIT)"
-  degree: "B.Tech in Computer Science & Engineering (2023 – 2027)"
-  cgpa: 8.34
+Here is your complete, copy-pasteable README code. Just copy everything inside the code block below and paste it directly into your GitHub profile repository (`README.md`):
 
-core_specializations:
-  genai_engineering: ["LangChain Orchestration", "Gemini & OpenAI APIs", "Pinecone Vector DB (768-dim)", "Multi-Hop RAG Grounding"]
-  backend_systems:   ["Node.js", "Express.js", "GraphQL Ingestion", "RESTful APIs", "HTTP-Only JWT Auth", "Compound Indexing"]
-  frontend_craft:    ["React 19", "Next.js", "Tailwind CSS", "Recharts Telemetry", "Optimistic UI State"]
+```markdown
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Kanishk+Sharma+!+%F0%9F%91%8B;Full-Stack+Engineer+%26+GenAI+Architect;Building+Scalable+MERN+%26+RAG+Systems;LeetCode+Knight+(1883+Peak)+%7C+1000%2B+Solved" alt="Typing SVG" />
 
-competitive_programming:
-  leetcode:   "Knight Badge | 1883 Peak Rating | 1000+ Problems Solved | 40+ Contest Topics"
-  codeforces: "1188 Peak Rating | Active Competitor"
-  hackathons: ["Semi-Finalist @ Economic Times GenAI Hackathon", "Certificate of Honor @ Cognizant Technoverse"]
-flowchart LR
-    subgraph Client["⚡ React 19 / Next.js Edge Client"]
-        UI["Interactive Telemetry UI\n(Tailwind + Recharts)"]
-        Opt["Optimistic State & Modals"]
-    end
+  <p align="center">
+    <strong>Transforming complex full-stack architectures and Generative AI pipelines into high-performance realities.</strong>
+    <br />
+    <em>Computer Science Undergraduate @ VIT Bhopal • CGPA: 8.34</em>
+  </p>
 
-    subgraph Gateway["🛡️ Node.js & Express API Gateway"]
-        Auth["HTTP-Only Cookie JWT\n+ RBAC Middleware"]
-        GQL["GraphQL & REST\nIngestion Pipelines"]
-        Diag["Algorithmic Diagnostics\n(Split-Time & Bias Engines)"]
-    end
+  <!-- Quick Contact / Badges Bar -->
+  <p align="center">
+    <a href="https://linkedin.com/in/kanishk-sharma-b0912735a">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/KanishkSharma3114">
+      <img src="https://img.shields.io/badge/LeetCode_Knight_(1883)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="mailto:chesssynid@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/kanishk3114S">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
-    subgraph AILayer["🧠 Agentic RAG & Vector Core"]
-        LC["LangChain Orchestrator"]
-        VDB[("Pinecone Vector DB\n768-Dim Embeddings")]
-        LLM["Google Gemini /\nOpenAI LLMs"]
-    end
+---
 
-    subgraph DataLayer["🗄️ Persistent Storage"]
-        MDB[("MongoDB Atlas\nCompound Indexes & Aggregations")]
-    end
+### ⚡ Profile Overview
 
-    UI <-->|"Low-Latency JSON / Streams"| Auth
-    Opt --> UI
-    Auth --> GQL
-    Auth --> Diag
-    GQL --> MDB
-    Diag --> LC
-    LC <-->|"Cosine Similarity Top-K"| VDB
-    LC <-->|"Context-Grounded Prompts"| LLM
-    LLM --> UI
-🚀 Flagship Production Systems🔴 Kalos-Poke-Dex: High-performance interactive frontend encyclopedic web application engineered with vanilla HTML5, CSS3, and asynchronous JavaScript, deployed on Vercel Edge for instant asset delivery.🏏 Autonomous Research & Editorial Agents: Designing multi-hop search, zero-hallucination fact grounding, and automated editorial PDF dossier generation workflows.🛠️ Technical ArsenalDomainProduction Stack & Tooling🧠 GenAI, LLMs & Vector Search    ⚙️ Languages & Core Compute     💻 Frontend & Backend Systems     🗄️ Databases, Cloud & Security      🏆 Competitive Programming, Hackathons & Honors📊 Live Algorithmic & GitHub Telemetry
+```yaml
+name: Kanishk Sharma
+role: Full-Stack & GenAI Software Engineer
+education: B.Tech Computer Science & Engineering @ VIT Bhopal (2023 – 2027) | CGPA: 8.34
+core_expertise: [MERN Stack, RAG Pipelines, LangChain, Pinecone Vector DB, REST APIs, GraphQL]
+algorithmic_rating: LeetCode Knight (1883 Peak • 1000+ Problems Solved) | Codeforces (1188 Peak)
+current_focus: Building autonomous multi-hop agent workflows, low-latency React apps, and AI developer tooling.
+
+```
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Core Technologies & Frameworks |
+| --- | --- |
+| **Languages & Scripting** | C++, JavaScript (ES6+), Python, C, HTML5, CSS3 |
+| **Frontend & UI** | React 19, Next.js, Tailwind CSS, Recharts, Framer Motion |
+| **Backend & APIs** | Node.js, Express.js, RESTful Architecture, GraphQL Telemetry, JWT Auth |
+| **GenAI & Vector Search** | LangChain, Google Gemini API, OpenAI APIs, Pinecone Vector DB (768-dim) |
+| **Databases & Cloud** | MongoDB (Compound Indexing/Aggregation), MySQL, Supabase, Firebase, AWS, Vercel Edge, Render |
+
+---
+
+### 🚀 Featured Engineering Projects
+
+---
+
+### 🏆 Achievements, Certifications & CP Milestones
+
+* ⚔️ **LeetCode Knight (`1883` Peak Rating):** Solved **1000+ algorithmic problems** across dynamic programming, graph algorithms, and matrix traversals in 40+ rated contests[cite: 1].
+* 📈 **Codeforces Competitor:** Active competitive programmer maintaining a **1188** peak rating[cite: 1].
+* 🏅 **Semi-Finalist — Economic Times GenAI Hackathon (June 2026):** Engineered an innovative GenAI solution, advancing to the semi-finals against thousands of participants nationwide[cite: 1].
+* 🎖️ **Certificate of Honor — Cognizant Technoverse Hackathon:** Recognized for rapid full-stack prototyping and robust system architecture (*Team Black Diamonds*).
+* 📜 **Oracle OCI AI Foundations Associate (Aug 2025):** Certified in cloud AI infrastructure, machine learning principles, and enterprise full-stack integration[cite: 1].
+
+---
+
+### 📊 GitHub & Algorithmic Telemetry
+
+---
+
+### 🐍 Contribution Snake Animation
+
+---
