@@ -1,74 +1,56 @@
-Here is your complete, copy-pasteable README code. Just copy everything inside the code block below and paste it directly into your GitHub profile repository (`README.md`):
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Kanishk+Sharma+!+%F0%9F%91%8B;Full-Stack+Engineer+%26+GenAI+Architect;Building+Scalable+MERN+%26+RAG+Systems;LeetCode+Knight+(1883+Peak)+%7C+1000%2B+Solved" alt="Typing SVG" />
-
-  <p align="center">
-    <strong>Transforming complex full-stack architectures and Generative AI pipelines into high-performance realities.</strong>
-    <br />
-    <em>Computer Science Undergraduate @ VIT Bhopal • CGPA: 8.34</em>
-  </p>
-
-  <!-- Quick Contact / Badges Bar -->
-  <p align="center">
-    <a href="https://linkedin.com/in/kanishk-sharma-b0912735a">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/KanishkSharma3114">
-      <img src="https://img.shields.io/badge/LeetCode_Knight_(1883)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="mailto:chesssynid@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/kanishk3114S">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kanishk+Sharma+!+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Problem+Solver+%7C+DSA+Knight" alt="Typing SVG" />
 </div>
 
 ---
 
-### ⚡ Profile Overview
+### 💫 About Me
+- 🎓 Pursuing a Bachelor of Technology in Computer Science and Engineering at Vellore Institute of Technology[cite: 1]. 
+- 🚀 Focused on strengthening my foundation in Data Structures and Algorithms while building scalable Full-Stack and AI-driven applications.
+- 🧠 Solved 400+ problems on LeetCode, achieving the Knight Badge with a peak rating of 1883[cite: 1].
+- ⚡ Active in competitive programming with a peak rating of 1188 on Codeforces[cite: 1].
+- 🏆 Passionate hackathon competitor, notably a Semi-Finalist in the Economic Times GenAI Hackathon[cite: 1], and a participant in the Cognizant Technoverse Hackathon and Hacksplosion 2026.
+- ☁️ Certified Oracle OCI AI Foundations Associate[cite: 1].
+- 🤝 Always open to collaborating on innovative projects and participating in team challenges like Flipkart GRiD.
 
-name: Kanishk Sharma
-role: Full-Stack & GenAI Software Engineer
-education: B.Tech Computer Science & Engineering @ VIT Bhopal (2023 – 2027) | CGPA: 8.34
-core_expertise: [MERN Stack, RAG Pipelines, LangChain, Pinecone Vector DB, REST APIs, GraphQL]
-algorithmic_rating: LeetCode Knight (1883 Peak • 1000+ Problems Solved) | Codeforces (1188 Peak)
-current_focus: Building autonomous multi-hop agent workflows, low-latency React apps, and AI developer tooling.
+### 💻 Tech Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Using Skillicons for clean, unified, and animated tech stack visuals -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,supabase,firebase,aws,vercel,git,github&perline=10" alt="Tech Stack" />
+  </a>
+</div>
 
+### 🚀 Featured Projects
+- **[TruthLens](https://truuuthlens.vercel.app/)**: An AI media verification platform built with React, Node.js, Express, and MongoDB to combat digital misinformation with automated truth evaluations[cite: 1].
+- **[ProjectCamp](https://github.com/kanishk3114S/project-management-application-)**: A full-stack project management application featuring JWT authentication, Role-Based Access Control, and real-time velocity tracking[cite: 1].
+- **[Engram](https://engram-teal.vercel.app/)**: A persona-based AI journaling app providing tailored daily reflections through distinct digital personas[cite: 1].
+- **Kalos-Poke-Dex**: A dynamic frontend web application deployed seamlessly on Vercel.
 
-
-### 🛠️ Technical Arsenal
-
-| Category | Core Technologies & Frameworks |
-| --- | --- |
-| **Languages & Scripting** | C++, JavaScript (ES6+), Python, C, HTML5, CSS3 |
-| **Frontend & UI** | React 19, Next.js, Tailwind CSS, Recharts, Framer Motion |
-| **Backend & APIs** | Node.js, Express.js, RESTful Architecture, GraphQL Telemetry, JWT Auth |
-| **GenAI & Vector Search** | LangChain, Google Gemini API, OpenAI APIs, Pinecone Vector DB (768-dim) |
-| **Databases & Cloud** | MongoDB (Compound Indexing/Aggregation), MySQL, Supabase, Firebase, AWS, Vercel Edge, Render |
-
----
-
-### 🚀 Featured Engineering Projects
-
----
-
-### 🏆 Achievements, Certifications & CP Milestones
-
-* ⚔️ **LeetCode Knight (`1883` Peak Rating):** Solved **1000+ algorithmic problems** across dynamic programming, graph algorithms, and matrix traversals in 40+ rated contests[cite: 1].
-* 📈 **Codeforces Competitor:** Active competitive programmer maintaining a **1188** peak rating[cite: 1].
-* 🏅 **Semi-Finalist — Economic Times GenAI Hackathon (June 2026):** Engineered an innovative GenAI solution, advancing to the semi-finals against thousands of participants nationwide[cite: 1].
-* 🎖️ **Certificate of Honor — Cognizant Technoverse Hackathon:** Recognized for rapid full-stack prototyping and robust system architecture (*Team Black Diamonds*).
-* 📜 **Oracle OCI AI Foundations Associate (Aug 2025):** Certified in cloud AI infrastructure, machine learning principles, and enterprise full-stack integration[cite: 1].
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishk3114S&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk3114S&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk3114S&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+</div>
 
 ---
 
-### 📊 GitHub & Algorithmic Telemetry
+<div align="center">
+  <h3>Let's Connect! 🌐</h3>
+  <!-- Fixed the broken double URLs from the original draft and updated to cohesive uniform badges -->
+  <a href="https://linkedin.com/in/kanishk-sharma-b0912735a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chesssynid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/KanishkSharma3114"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://instagram.com/kanishk_x_sharma/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</div>
 
----
-
-### 🐍 Contribution Snake Animation
-
----
+<br>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=kanishk3114S&icon=6&color=0" alt="Profile Views" />
+  </a>
+</div>
