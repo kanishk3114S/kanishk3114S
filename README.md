@@ -2,26 +2,26 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://github.com/kanishk3114S">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=750&height=50&lines=Hi+there,+I'm+Kanishk+Sharma+%F0%9F%91%8B;Full-Stack+Architect+%7C+AI+Systems+Builder;LeetCode+Knight+(Peak+1883)+%F0%9F%A7%A0;Passionate+Problem+Solver+%26+Hackathon+Finalist" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1400&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=55&lines=Hi+there%2C+I'm+Kanishk+Sharma+%F0%9F%91%8B;Full-Stack+Architect+%E2%80%A2+AI+Systems+Engineer;LeetCode+Knight+(Peak+Rating%3A+1883)+%F0%9F%A7%A0;Crafting+Production-Ready+Distributed+%26+Generative+AI+SaaS" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
     <strong>Computer Science & Engineering @ Vellore Institute of Technology (VIT)</strong>
   </p>
 
-  <!-- Quick Achievement Badges -->
   <p align="center">
-    <a href="https://leetcode.com/KanishkSharma3114"><img src="https://img.shields.io/badge/LeetCode-Knight%20(1883)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" /></a>
-    <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-1188%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-    <img src="https://img.shields.io/badge/ET%20GenAI-Semi--Finalist-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI Hackathon" />
+    <a href="https://leetcode.com/KanishkSharma3114" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Knight%20(1883)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" /></a>
+    <a href="https://codeforces.com" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1188%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <img src="https://img.shields.io/badge/ET%20GenAI%20Hackathon-Semi--Finalist-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI Hackathon" />
     <img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Certified" />
   </p>
 
   <p align="center">
-    <a href="#-featured-projects"><b>Explore Projects</b></a> • 
-    <a href="#-technical-arsenal"><b>Tech Stack</b></a> • 
-    <a href="#-competitive-programming--stats"><b>Stats & Metrics</b></a> • 
-    <a href="#-lets-connect"><b>Get In Touch</b></a>
+    <a href="#-about-me"><b>About</b></a> • 
+    <a href="#-featured-systems--production-apps"><b>Featured Systems</b></a> • 
+    <a href="#-technical-arsenal"><b>Tech Arsenal</b></a> • 
+    <a href="#-algorithmic-prowess--github-telemetry"><b>Stats & Telemetry</b></a> • 
+    <a href="#-lets-connect"><b>Contact</b></a>
   </p>
 
 </div>
@@ -30,31 +30,40 @@
 
 ### 💫 About Me
 
-```yaml
-identity:
-  name: Kanishk Sharma
-  education: B.Tech in Computer Science & Engineering @ Vellore Institute of Technology (VIT)
-  focus_areas: [Full-Stack Engineering, Generative AI Systems, High-Performance Backend, Scalable Architecture]
-  competitive_profile:
-    leetcode: "Knight Badge • 400+ Solved • Peak Rating: 1883"
-    codeforces: "Active Competitive Programmer • Peak Rating: 1188"
-  honors:
-    - "Semi-Finalist @ The Economic Times GenAI Hackathon"
-    - "Oracle Cloud Infrastructure (OCI) AI Foundations Associate Certified"
-    - "Competitor @ Cognizant Technoverse, Hacksplosion & Flipkart GRiD"
-  current_status: "Engineering production-ready AI SaaS applications & open to collaborative innovation"
+```typescript
+interface SoftwareEngineer {
+  name: "Kanishk Sharma";
+  education: "B.Tech in Computer Science & Engineering @ VIT";
+  coreFocus: [
+    "High-Performance Full-Stack Architectures",
+    "Autonomous Agentic Workflows & Multi-Modal LLMs",
+    "Low-Latency API Design & Distributed Microservices",
+    "Data Structures & Algorithmic Optimization"
+  ];
+  competitiveRankings: {
+    leetcode: "Knight Badge (Top 4%) • 400+ Problems Solved • Peak 1883";
+    codeforces: "Active Contestant • Rating 1188";
+  };
+  certifications: [
+    "Oracle Cloud Infrastructure (OCI) AI Foundations Associate",
+    "Semi-Finalist @ The Economic Times GenAI Hackathon",
+    "Competitor @ Flipkart GRiD, Cognizant Technoverse & Hacksplosion"
+  ];
+  currentMission: "Building scalable, deterministic AI platforms with enterprise-grade reliability";
+}
 ```
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Systems & Production Apps
 
 <table>
+  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🏏 CricScript AI (CricPitch)</h3>
-      <p><b>Cinematic Cricket Documentary Research & Cadence Scriptwriting Studio</b></p>
-      <p>An autonomous dual-engine creator studio. Deploys multi-hop web agents to dissect scorecards, pitch reports, and press conferences with 100% fact grounding, then synthesizes 3-part Hinglish video scripts with teleprompter <code>[pause]</code> cues strictly under 1,000 words.</p>
+      <p><b>Autonomous Cricket Documentary Research & Cadence Scriptwriting Studio</b></p>
+      <p>A multi-agent analytical studio. Employs multi-hop web retrieval agents to digest match scorecards, pitch dynamics, and press transcripts with 100% grounded facts, synthesizing broadcast-ready, 3-part Hinglish scripts with teleprompter cadence cues strictly within 1,000 words.</p>
       <p>
         <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vite%208-646CFF?style=flat-square&logo=vite&logoColor=white" />
@@ -64,51 +73,58 @@ identity:
         <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
       </p>
       <p>
-        ⭐ <i>Highlights: Dual-Engine Architecture • 4K Stadium Engine • Stateless & Anonymous • Zero-Disk PDF Streaming</i>
+        ⚡ <b>Highlights:</b> Multi-Agent Research Engine • RAG Grounding • Teleprompter Sync • Zero-Disk Memory Streaming
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🔍 TruthLens</h3>
-      <p><b>AI Media Verification & Disinformation Combat Platform</b></p>
-      <p>An autonomous verification suite engineered to combat digital deepfakes and fake news. Conducts automated truth-value evaluations, web evidence reconciliation, and multi-source credibility scoring in real time.</p>
+      <p><b>Autonomous Multi-Modal Deepfake & Disinformation Verification Engine</b></p>
+      <p>A real-time intelligence suite engineered to detect synthetic media and cross-examine fake news claims. Orchestrates multi-source cross-referencing, automated truth-probability scoring, and evidence lineage graphing.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p>
-        🔗 <a href="https://truuuthlens.vercel.app/"><b>Live Demo</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🧠 Engram</h3>
-      <p><b>Persona-Based AI Journaling & Cognitive Reflection App</b></p>
-      <p>A personalized AI reflective journaling platform that adapts to individual cognitive frameworks, delivering bespoke daily retrospectives through distinct digital psychological personas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/GenAI-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-      <p>
-        🔗 <a href="https://engram-teal.vercel.app/"><b>Live Demo</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">📊 ProjectCamp</h3>
-      <p><b>Enterprise Project Velocity & Governance Platform</b></p>
-      <p>A high-concurrency project management system engineered with stateless JWT token workflows, granular Role-Based Access Control (RBAC), sprint progress boards, and real-time team velocity analytics.</p>
-      <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
       </p>
       <p>
-        🔗 <a href="https://github.com/kanishk3114S/project-management-application-"><b>Source Code</b></a>
+        🔗 <a href="https://truuuthlens.vercel.app/" target="_blank"><b>Live Deployment</b></a> • 
+        ⚡ <b>Highlights:</b> Multi-Modal Forensic Pipeline • Real-time Credibility Scoring
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🧠 Engram</h3>
+      <p><b>Persona-Adaptive AI Cognitive Retrospective & Journaling Engine</b></p>
+      <p>A cognitive reflective journaling engine that analyzes user sentiment and narrative frameworks, generating personalized introspections and psychiatric-informed prompts through dynamic digital psychological personas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://engram-teal.vercel.app/" target="_blank"><b>Live Deployment</b></a> • 
+        ⚡ <b>Highlights:</b> Adaptive Persona Modeling • Longitudinal Sentiment Tracking
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📊 ProjectCamp</h3>
+      <p><b>High-Concurrency Enterprise Project Velocity & Governance Platform</b></p>
+      <p>A distributed project collaboration infrastructure with stateless JWT authentication, fine-grained Role-Based Access Control (RBAC), multi-tenant workspace isolation, and automated sprint burn-down telemetry.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=postman&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://github.com/kanishk3114S/project-management-application-" target="_blank"><b>Source Code Repository</b></a> • 
+        ⚡ <b>Highlights:</b> Granular RBAC • Zero-Leak Security Models
       </p>
     </td>
   </tr>
@@ -120,38 +136,47 @@ identity:
 
 <div align="center">
 
-| Domain | Technologies |
+| Domain | Stack & Tooling |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" alt="Languages" /> |
-| **Frontend Engineering** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" alt="Frontend" /> |
-| **Backend & Systems** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" /> |
-| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,aws&theme=dark" alt="Databases and Cloud" /> |
-| **DevOps, Tools & AI** | <img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark" alt="Tools" /> |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" alt="Languages" /> |
+| **Frontend & 3D Engineering** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,html,css&theme=dark" alt="Frontend" /> |
+| **Backend & Distributed Systems** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" /> |
+| **Databases, Caching & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,aws&theme=dark" alt="Databases and Cloud" /> |
+| **DevOps, Tooling & Architecture** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,linux&theme=dark" alt="DevOps and Tools" /> |
 
 </div>
 
 ---
 
-### 📊 Competitive Programming & Stats
+### 📈 Algorithmic Prowess & GitHub Telemetry
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/kanishk3114S">
-          <img src="https://github-readme-stats.vercel.app/api?username=kanishk3114S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08090B&title_color=38BDF8&icon_color=F59E0B&text_color=A1A6B0" alt="Kanishk's GitHub Stats" width="100%" />
+      <!-- LeetCode Interactive Statistics -->
+      <td width="50%" align="center" valign="middle">
+        <a href="https://leetcode.com/KanishkSharma3114" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/KanishkSharma3114?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats Card" width="98%" />
         </a>
       </td>
-      <td width="50%" align="center">
+      <!-- GitHub Lifetime Stats -->
+      <td width="50%" align="center" valign="middle">
         <a href="https://github.com/kanishk3114S">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk3114S&theme=tokyonight&hide_border=true&background=08090B&ring=38BDF8&fire=D91F2B&currStreakLabel=38BDF8" alt="GitHub Streak Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=kanishk3114S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08090B&title_color=38BDF8&icon_color=F59E0B&text_color=A1A6B0" alt="GitHub Stats" width="98%" />
         </a>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <!-- GitHub Activity Streak -->
+      <td width="50%" align="center" valign="middle">
         <a href="https://github.com/kanishk3114S">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk3114S&layout=compact&theme=tokyonight&hide_border=true&bg_color=08090B&title_color=38BDF8&text_color=A1A6B0" alt="Top Languages" width="60%" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk3114S&theme=tokyonight&hide_border=true&background=08090B&ring=38BDF8&fire=D91F2B&currStreakLabel=38BDF8" alt="Streak Stats" width="98%" />
+        </a>
+      </td>
+      <!-- Top Languages Distribution -->
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/kanishk3114S">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk3114S&layout=compact&theme=tokyonight&hide_border=true&bg_color=08090B&title_color=38BDF8&text_color=A1A6B0" alt="Top Languages" width="98%" />
         </a>
       </td>
     </tr>
@@ -160,7 +185,7 @@ identity:
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/kanishk-sharma-b0912735a" target="_blank">
@@ -183,9 +208,9 @@ identity:
 <br />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kanishk3114S&icon=6&color=38BDF8" alt="Profile Views Counter" />
+  <img src="https://visitcount.itsvg.in/api?id=kanishk3114S&icon=6&color=38BDF8" alt="Profile Visits Counter" />
 </div>
 
 <div align="center">
-  <sub>⚡ Designed with precision by <b>Kanishk Sharma</b> • Powered by GitHub</sub>
+  <sub>⚡ Architected with precision by <b>Kanishk Sharma</b> • Available for high-impact engineering roles & collaborative ventures</sub>
 </div>
